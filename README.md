@@ -220,9 +220,9 @@ Fizz官方技术交流③群：512164278
 
 [简单易用的微服务聚合网关首选：Fizz Gateway安装教程](https://my.oschina.net/linwaiwai/blog/4696224)
 
-[大厂推荐使用的网关解密：Fizz Gateway管理后台使用教程](https://my.oschina.net/linwaiwai/blog/4696124)
+[大厂推荐使用的网关解密：Fizz Gateway管理后台使用教程](https://www.jianshu.com/p/5ecaca6fa968)
 
-[架构师效率快的终极原因：Fizz Gateway网关之服务编排](https://my.oschina.net/linwaiwai/blog/4696116)
+[架构师效率快的终极原因：Fizz Gateway网关之服务编排](https://zhuanlan.zhihu.com/p/270220275)
 
 [高阶架构师支招：Fizz Gateway的插件开发](https://my.oschina.net/linwaiwai/blog/4696131)
 
