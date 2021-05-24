@@ -226,7 +226,7 @@ Fizz官方技术交流③群：512164278
 
 [高阶架构师支招：Fizz Gateway的插件开发](https://my.oschina.net/linwaiwai/blog/4696131)
 
-[高阶程序员必备技能：Fizz Gateway网关的二次开发](https://my.oschina.net/linwaiwai/blog/4696133)
+[高阶程序员必备技能：Fizz Gateway网关的二次开发](https://cloud.tencent.com/developer/article/1736669)
 
 ## 授权说明
 
