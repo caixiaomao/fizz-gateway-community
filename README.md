@@ -35,6 +35,10 @@ API地址：http://demo.fizzgate.com/proxy/[服务名]/[API_Path]
 
 <img width="500" src="https://user-images.githubusercontent.com/184315/97130741-33a90d80-177d-11eb-8680-f589a36e44b3.png" />
 
+## Fizz典型应用场景
+
+<img width="90%" src="https://raw.githubusercontent.com/wiki/wehotel/fizz-gateway-community/img/scene.png" />
+
 ## 产品特性
 
 - 集群管理：Fizz网关节点是无状态的，配置信息自动同步，支持节点水平拓展和多集群部署。

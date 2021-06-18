@@ -37,6 +37,10 @@ API access：http://demo.fizzgate.com/proxy/[Service Name]/[API Path]
 
 <img width="500" src="https://user-images.githubusercontent.com/184315/97130741-33a90d80-177d-11eb-8680-f589a36e44b3.png" />
 
+## Fizz's typical scene
+
+<img width="90%" src="https://raw.githubusercontent.com/wiki/wehotel/fizz-gateway-community/img/scene.png" />
+
 ## Product Features
 
 - Cluster management: Fizz gateway nodes are stateless with configuration information that is automatically synchronized, and horizontal expansion of nodes and multi-cluster deployment are supported.
